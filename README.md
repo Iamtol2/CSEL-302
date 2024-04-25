@@ -6,7 +6,7 @@ Welcome to my compilation of activities and projects! Below, you'll find a summa
 
 ## Activities
 
-1. <a href="
+1. <a href="CSEL_302_folder
 
 
 # Computer Science Course

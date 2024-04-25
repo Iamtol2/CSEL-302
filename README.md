@@ -6,7 +6,7 @@ Welcome to my compilation of activities and projects! Below, you'll find a summa
 
 ## Activities
 
-1. <a href="CSEL_302_Folder/2A_VELINA_EXER4.ipynb"> Excercise 4 </a>
+1. <a href="CSEL 302 Folder/2A_VELINA_EXER4.ipynb"> Excercise 4 </a>
 
 
 # Computer Science Course
